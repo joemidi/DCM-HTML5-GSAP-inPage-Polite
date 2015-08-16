@@ -17,4 +17,4 @@ And declaring the *clickTags* in a script tag:
 	</script>
 ```
 
-
+_N.B. Not actually tested this build, and I'm not sure that DCM can use multiple clickTags_
